@@ -2,6 +2,8 @@
 
 ### My name is Marcin, I'm curenntly working as Windows Server Administor. In May 2022 I started my Front-End Developer journey and decided that I want to continue my carrer as Front-End Developer.
 
+            <i class="devicon-html5-plain colored"></i>
+          
 
 <!--
 **Cymekk/Cymekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
