@@ -2,7 +2,8 @@
 
 ### My name is Marcin, I'm curenntly working as Windows Server Administor. In May 2022 I started my Front-End Developer journey and decided that I want to continue my carrer as Front-End Developer.
 
-            <i class="devicon-html5-plain colored"></i>
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
 
 <!--
