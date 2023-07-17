@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Marcin, I am currently working as a Windows Server administrator. In May 2022, I started my adventure as a Front-End Developer and decided that I want to continue my career as a Front-End Developer
+### My name is Marcin. I am currently working as a Windows Server administrator. In May 2022, I started my adventure as a Front-End Developer and decided that I want to continue my career as a Front-End Developer
 
 ### My stack:
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
