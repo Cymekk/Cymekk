@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-### My name is Marcin. I am currently working as a Windows Server administrator. In May 2022, I started my adventure as a Front-End Developer and decided that I want to continue my career as a Front-End Developer
+### My name is Marcin. I am currently working as a Windows Server administrator. Front-End Development is my passion and I would like to continue my carrer like Front-End Developer
 
 ### My Projects:
 1) Noteapp - Simple application with authentication where you can store you own notes, repository here: https://github.com/Cymekk/NoteApp
 2) Calories Calculator - Application which will help you lose some kilograms, increase your weight or just stay fit and healty, repository here: (https://github.com/Cymekk/KalkulatoKalorii)
 3) Rekinek - webiste dedicated for swimming school (https://github.com/Cymekk/Rekinek)
-4) Running diary(In progress) - Application which will store you running logs notes(kilometers, time, pace, burned calories). There will be available some statistical graphs, such as the number of kilometers run each month. Also there will be available to change your password or set a profile picture, repository here: https://github.com/Cymekk/Running-Diary
-
+4) Running diary - application which will allows you to store your running logs, you need to provide date, time, and covered distance. Details like burned calories, avarage pace and average speed will be calculate automatically. Goals view is feature which allow you to create some training goals, like "Finish 5km run under 30 minutes", "Lose weight" etc. At statistic view you can check your statistics like fastest 5km, 10km runs, number of trainings etc. Also in statistics view is chart which show how many kilometers you traveled per month.
 
 ### My stack:
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
